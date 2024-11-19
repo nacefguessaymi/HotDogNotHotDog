@@ -1,4 +1,6 @@
 # HotDogNotHotDog
+![image](https://github.com/user-attachments/assets/e663f60d-0bd5-4514-a02c-c8ed828f9fe7)
+
 Image classifier and scraper for pictures of hotdogs
 HotDog_Scraper.py pulls images from google images. 
 The classifier is a simple neural net trained on the pulled images.
