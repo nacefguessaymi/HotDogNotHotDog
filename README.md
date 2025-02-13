@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f128f68d8aa4f2d540d59d2a15246771aa2918e21300b9ad4a7b848c4568325d
-size 561
+# HotDogNotHotDog
+![image](https://github.com/user-attachments/assets/e663f60d-0bd5-4514-a02c-c8ed828f9fe7)
+
+Image classifier and scraper for pictures of hotdogs
+HotDog_Scraper.py pulls images from google images. 
+The classifier is a simple neural net trained on the pulled images in Model_Training.py. I tested the model on random personal images and it works pretty well. 
+Motivation behind this is https://www.youtube.com/watch%3Fv%3DvIci3C4JkL0&ved=2ahUKEwisgquqvumJAxUBD1kFHYF4CuMQwqsBegQIDhAG&usg=AOvVaw1-wKxKOUZNgWyojEGqTw5S
+
+Got some more ideas for this
